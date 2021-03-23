@@ -1,4 +1,10 @@
-# ICJ Bootstrap Template
+# Miles' Bootstrap In-Class
+
+By Miles Crenwelge, Intro Coding for Journalists class
+
+This repo is a class assignment to learn Bootstrap. It is due March 26, 2021. Started March 22, 2021.
+
+## ICJ Bootstrap Template
 
 This template goes along with the [Bootstrap lessons](https://github.com/utdata/icj-class#bootstrap) for Intro to Coding for Journalists.
 
